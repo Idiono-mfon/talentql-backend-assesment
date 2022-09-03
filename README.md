@@ -1,3 +1,7 @@
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/b1f1437e36534c00a57c29dc7a6c7ff3)](https://www.codacy.com/gh/Idiono-mfon/talentql-backend-assesment/dashboard?utm_source=github.com&utm_medium=referral&utm_content=Idiono-mfon/talentql-backend-assesment&utm_campaign=Badge_Grade)
+
+---
+
 # Backend Assessment
 
 Build and deploy a very simple API that does the following
