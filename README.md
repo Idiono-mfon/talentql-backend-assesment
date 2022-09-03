@@ -1,5 +1,7 @@
 # Backend Assessment
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/7fcb957f85c74d688a3eb218c6bb76ef)](https://app.codacy.com/gh/Idiono-mfon/talentql-backend-assesment?utm_source=github.com&utm_medium=referral&utm_content=Idiono-mfon/talentql-backend-assesment&utm_campaign=Badge_Grade_Settings)
+
 Build and deploy a very simple API that does the following
 
 1.  Calculate and return the age of a person, given their date of birth (dob) as query parameters to `GET /howold`
