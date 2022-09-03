@@ -6,7 +6,7 @@ export class AppService {
     'Invalid dob timestamp. @example: 12/25/1960; December 25 1960; 1662209945; 1662209945204; 12-25-2008; 2008-12-25';
 
   getHello(): string {
-    return 'Welcome to my Talentql Backend assesment';
+    return 'Welcome to my Talentql Backend assessment';
   }
 
   getAge(dob: string): string {
@@ -18,7 +18,7 @@ export class AppService {
       // string timestamp was passed
       timestamp = new Date(dob).getTime();
     } else {
-      // Numeric timestamp was paased
+      // Numeric timestamp was passed
       const lenInSeconds = Math.floor(Date.now() / 1000).toString().length;
 
       const lenInMilliseconds = Math.floor(Date.now()).toString().length;
